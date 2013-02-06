@@ -57,6 +57,8 @@ class Assets {
 			resourceTypes.set ("assets/bg11.png", "image");
 			resourceClasses.set ("assets/enemy.png", NME_assets_enemy_png);
 			resourceTypes.set ("assets/enemy.png", "image");
+			resourceClasses.set ("assets/bullet.png", NME_assets_bullet_png);
+			resourceTypes.set ("assets/bullet.png", "image");
 			resourceClasses.set ("assets/bg8.png", NME_assets_bg8_png);
 			resourceTypes.set ("assets/bg8.png", "image");
 			resourceClasses.set ("assets/bang.png", NME_assets_bang_png);

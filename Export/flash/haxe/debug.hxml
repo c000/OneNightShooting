@@ -7,7 +7,7 @@
 -D web
 -swf-version 11
 -swf9 Export/flash/bin/OneNightShooting.swf
--swf-header 800:600:30:0
+-swf-header 800:600:30:FFFFFF
 -cp Export/flash/haxe
 --no-inline
 -debug

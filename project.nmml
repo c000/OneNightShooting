@@ -3,7 +3,6 @@
 	
 	<meta title="OneNightShooting" package="com.example.onenightshooting" version="1.0.0" company="Company Name" />
 	<app main="Main" path="Export" file="OneNightShooting" />
-	<window background="0x000000" resizable="false" />
 	
 	<source path="Source" />
 	

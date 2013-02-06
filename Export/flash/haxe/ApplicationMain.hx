@@ -137,6 +137,11 @@ class ApplicationMain {
             return Assets.getBitmapData ("assets/enemy.png");
          
 		
+		if (inName=="assets/bullet.png")
+			 
+            return Assets.getBitmapData ("assets/bullet.png");
+         
+		
 		if (inName=="assets/bg8.png")
 			 
             return Assets.getBitmapData ("assets/bg8.png");
@@ -219,6 +224,7 @@ class NME_assets_bg7_png extends nme.display.BitmapData { public function new ()
 class NME_assets_bg6_png extends nme.display.BitmapData { public function new () { super (0, 0); } }
 class NME_assets_bg11_png extends nme.display.BitmapData { public function new () { super (0, 0); } }
 class NME_assets_enemy_png extends nme.display.BitmapData { public function new () { super (0, 0); } }
+class NME_assets_bullet_png extends nme.display.BitmapData { public function new () { super (0, 0); } }
 class NME_assets_bg8_png extends nme.display.BitmapData { public function new () { super (0, 0); } }
 class NME_assets_bang_png extends nme.display.BitmapData { public function new () { super (0, 0); } }
 class NME_assets_bg12_png extends nme.display.BitmapData { public function new () { super (0, 0); } }
