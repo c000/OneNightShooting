@@ -41,46 +41,12 @@ class Assets {
 		
 		if (!initialized) {
 			
-			resourceClasses.set ("assets/bg13.png", NME_assets_bg13_png);
-			resourceTypes.set ("assets/bg13.png", "image");
-			resourceClasses.set ("assets/bg5.png", NME_assets_bg5_png);
-			resourceTypes.set ("assets/bg5.png", "image");
-			resourceClasses.set ("assets/bg9.png", NME_assets_bg9_png);
-			resourceTypes.set ("assets/bg9.png", "image");
-			resourceClasses.set ("assets/bg10.png", NME_assets_bg10_png);
-			resourceTypes.set ("assets/bg10.png", "image");
-			resourceClasses.set ("assets/bg7.png", NME_assets_bg7_png);
-			resourceTypes.set ("assets/bg7.png", "image");
-			resourceClasses.set ("assets/bg6.png", NME_assets_bg6_png);
-			resourceTypes.set ("assets/bg6.png", "image");
-			resourceClasses.set ("assets/bg11.png", NME_assets_bg11_png);
-			resourceTypes.set ("assets/bg11.png", "image");
 			resourceClasses.set ("assets/enemy.png", NME_assets_enemy_png);
 			resourceTypes.set ("assets/enemy.png", "image");
 			resourceClasses.set ("assets/bullet.png", NME_assets_bullet_png);
 			resourceTypes.set ("assets/bullet.png", "image");
-			resourceClasses.set ("assets/bg8.png", NME_assets_bg8_png);
-			resourceTypes.set ("assets/bg8.png", "image");
-			resourceClasses.set ("assets/bang.png", NME_assets_bang_png);
-			resourceTypes.set ("assets/bang.png", "image");
-			resourceClasses.set ("assets/bg12.png", NME_assets_bg12_png);
-			resourceTypes.set ("assets/bg12.png", "image");
 			resourceClasses.set ("assets/player.png", NME_assets_player_png);
 			resourceTypes.set ("assets/player.png", "image");
-			resourceClasses.set ("assets/bg3.png", NME_assets_bg3_png);
-			resourceTypes.set ("assets/bg3.png", "image");
-			resourceClasses.set ("assets/bg2.png", NME_assets_bg2_png);
-			resourceTypes.set ("assets/bg2.png", "image");
-			resourceClasses.set ("assets/bg4.png", NME_assets_bg4_png);
-			resourceTypes.set ("assets/bg4.png", "image");
-			resourceClasses.set ("assets/bg16.png", NME_assets_bg16_png);
-			resourceTypes.set ("assets/bg16.png", "image");
-			resourceClasses.set ("assets/bg14.png", NME_assets_bg14_png);
-			resourceTypes.set ("assets/bg14.png", "image");
-			resourceClasses.set ("assets/bg1.png", NME_assets_bg1_png);
-			resourceTypes.set ("assets/bg1.png", "image");
-			resourceClasses.set ("assets/bg15.png", NME_assets_bg15_png);
-			resourceTypes.set ("assets/bg15.png", "image");
 			
 			
 			initialized = true;

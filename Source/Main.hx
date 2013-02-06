@@ -32,10 +32,6 @@ class Main extends Sprite {
 		Lib.current.stage.addEventListener (KeyboardEvent.KEY_DOWN, stage_onKeyDown);
 		Lib.current.stage.addEventListener (KeyboardEvent.KEY_UP, stage_onKeyUp);
 		Lib.current.stage.addEventListener (Event.ENTER_FRAME, this_onEnterFrame);
-
-		debugText = new TextField();
-		debugText.text = "width=" + Lib.current.stage.stageWidth;
-		addChild (debugText);
 	}
 	
 	private function stage_onKeyDown (event:KeyboardEvent):Void {
