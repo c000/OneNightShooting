@@ -47,6 +47,8 @@ class Assets {
 			resourceTypes.set ("assets/bullet.png", "image");
 			resourceClasses.set ("assets/player.png", NME_assets_player_png);
 			resourceTypes.set ("assets/player.png", "image");
+			resourceClasses.set ("assets/hit01.mp3", NME_assets_hit01_mp3);
+			resourceTypes.set ("assets/hit01.mp3", "music");
 			
 			
 			initialized = true;

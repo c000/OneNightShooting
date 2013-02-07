@@ -112,6 +112,11 @@ class ApplicationMain {
             return Assets.getBitmapData ("assets/player.png");
          
 		
+		if (inName=="assets/hit01.mp3")
+			 
+            return Assets.getSound ("assets/hit01.mp3");
+		 
+		
 		
 		return null;
 		
@@ -134,6 +139,7 @@ class ApplicationMain {
 class NME_assets_enemy_png extends nme.display.BitmapData { public function new () { super (0, 0); } }
 class NME_assets_bullet_png extends nme.display.BitmapData { public function new () { super (0, 0); } }
 class NME_assets_player_png extends nme.display.BitmapData { public function new () { super (0, 0); } }
+class NME_assets_hit01_mp3 extends nme.media.Sound { }
 
 
 #else
