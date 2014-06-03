@@ -1,12 +1,12 @@
-import nme.display.Bitmap;
-import nme.display.Sprite;
-import nme.events.Event;
-import nme.events.KeyboardEvent;
-import nme.Assets;
-import nme.Lib;
-import nme.ui.Keyboard;
-import nme.geom.Point;
-import nme.text.TextField;
+import flash.display.Bitmap;
+import flash.display.Sprite;
+import flash.events.Event;
+import flash.events.KeyboardEvent;
+import flash.Assets;
+import flash.Lib;
+import flash.ui.Keyboard;
+import flash.geom.Point;
+import flash.text.TextField;
 
 class Main extends Sprite {
 	

@@ -1,9 +1,9 @@
-import nme.display.Bitmap;
-import nme.display.Sprite;
-import nme.Assets;
-import nme.geom.Point;
-import nme.events.Event;
-import nme.media.Sound;
+import flash.display.Bitmap;
+import flash.display.Sprite;
+import flash.Assets;
+import flash.geom.Point;
+import flash.events.Event;
+import flash.media.Sound;
 
 class Player extends Character {
 	private var moveSpeed:Float = 10;

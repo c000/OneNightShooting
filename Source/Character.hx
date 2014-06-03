@@ -1,8 +1,8 @@
-import nme.display.Bitmap;
-import nme.display.Sprite;
-import nme.Assets;
-import nme.geom.Point;
-import nme.events.Event;
+import flash.display.Bitmap;
+import flash.display.Sprite;
+import flash.Assets;
+import flash.geom.Point;
+import flash.events.Event;
 
 class Character extends Sprite {
 	public var radius : Int = 10;
